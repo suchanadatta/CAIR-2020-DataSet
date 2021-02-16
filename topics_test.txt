@@ -1,0 +1,163 @@
+<topics>
+
+<top>
+<num>1</num>
+<title>Assassination of Osama-bin-laden</title>
+<narr>
+Relevant document should contain information about differnt attacks against US by al-qaida, like September 11 attack, audio-broadcasts with threats and further mischievous activities that made US government assasin the terror mastermind Osama-bin-laden. Documents containing mere information about any rumour or buzz of Osama's death or how US navy SEALs killed him are irrelevant.
+</narr>
+</top>
+
+<top>
+<num>2</num>
+<title>Accused Ajmal Kasab</title>
+<narr>
+Information on Kasab's confession about 26/11 Mumbai terror attack, serial killing and blasts, complicity with al-qaida group will be considered as relevant documents. Any news on his trials or his family background does not satisfy relevance.
+</narr>
+</top>
+
+<top>
+<num>3</num>
+<title>Maharashtra CM ashok chavan resignation</title>
+<narr>
+Documents about Ashok Chavan's deliberate ending as Maharashtra chief minister because of the Adarsh housing scam are relevant. Relevance would be measured on the information how housing society has allegedly violated the coastal zone regulations and also, the building was supposed to house Kargil War widows but several high-ranking state officials and as well as former chief minister Ashok Chavans in-laws have been allotted flats. Any other document that highlights any personal or political issues of Maharashtra CM would be irrelevant.
+</narr>
+</top>
+
+<top>
+<num>4</num>
+<title>Accused Sanjay Dutt</title>
+<narr>
+Relevant document would highlight that actor Sanjay Dutt was involved in 1993 Mumbai blasts that took 200 lives, with the gangster Abu Salem. Retrieved documents will contain information about his receipt of two AK-56 rifles, some hand grenades and bullets from Abu Salem's people. News on his movies, personal life, other personal controversies will be considered irrelevant.
+</narr>
+</top>
+
+<top>
+<num>5</num>
+<title>Abu Salem accused</title>
+<narr>
+Relevants documents will contain evidences on Abu Salem's confession to his role in the murder of Ajit Dewani, the former secretary of actor Manisha Koirala, arms smuggling and this was how he amassed wealth, opening accounts everywhere, significant role in smuggling arms for the (Mumbai) riots of 1993. Any other rumours about his personal life are not relevant.
+</narr>
+</top>
+
+<top>
+<num>6</num>
+<title>Babri Masjid demolition case against Advani</title>
+<narr>
+A relevant document must include information about evidence to prove that deputy Prime Minister L.K. Advani and other top BJP and VHP leaders conspired to demolish the Babri Masjid. Information about steps that were taken to transfer the case to the Allahabad High Court is not relevant, nor is information about what happened at the Allahabad Court.
+</narr>
+</top>
+
+<top>
+<num>7</num>
+<title>CBI searches Dawood Ibrahim</title>
+<narr>
+A relevant document must provide information regarding the terror and mischevious activities of the global terrorist Dawood Ibrahim because of which CBI is after him. CBI's request to Interpol to help them in capturing Dawood, uncertainty relating to Dawood's nationality, and CBI's urging of the international community to create pressure upon the country which is sheltering the underworld don Dawood Ibrahim are not relevant.
+</narr>
+</top>
+
+<top>
+<num>8</num>
+<title>Court blocks facebook in pakistan</title>
+<narr>
+Relevant documents should contain information related to protests by Muslims against the publication of a cartoon depicting Prophet Muhammad.
+</narr>
+</top>
+
+<top>
+<num>9</num>
+<title>Jaswant Singh BJP sacking</title>
+<narr>
+Relevant documents should contain information related to the sacking of Jaswant Singh from the BJP because of his controversial book on Muhammad Ali Jinnah. Any other personal or political controversies are irrelevant.
+</narr>
+</top>
+
+<top>
+<num>10</num>
+<title>Kasab's nationality confirmed</title>
+<narr>
+A relevant document must provide information of Kasab' nationality that a pakoda-seller in Faridkot village of central Pakistan has admitted to a Pakistani newspaper that the lone terrorist captured alive for the Mumbai attacks is indeed his son. Also the electoral roll for Faridkot village in Pakistans Punjab province with names of 478 voters, including Mohammed Amir, married to Noor Elahi. Mohammed Ajmal Mohammed Amin Kasab, the lone terrorist arrested after the Mumbai attacks, had told interrogators he belonged to Faridkot and was the son of Mohammed Amir Amin. Any conflicts and tiffs between Indian and Pakistani government about his nationality are irrelevant.
+</narr>
+</top>
+
+<top>
+<num>11</num>
+<title>Left Front withdraws support from the UPA Government</title>
+<narr>
+Relevant documents should contain information related to the withdrawal of support from UPA-1 by the Left Front over issues related to the nuclear deal.
+</narr>
+</top>
+
+<top>
+<num>12</num>
+<title>Manu Sharma's life sentence</title>
+<narr>
+Information related to the murder of the model Jessica Lall and Manu Sharma's life sentence by the court should be included in the relevant documents.
+</narr>
+</top>
+
+<top>
+<num>13</num>
+<title>Salman Khan sentenced jail</title>
+<narr>
+Relevant documents will cite the arrest of Salman Khan for killing black buck antelopes. His appeal before the court after he was sentenced to jail for a five-year term are not relevant.
+</narr>
+</top>
+
+<top>
+<num>14</num>
+<title>Aftab Ansari sentenced death</title>
+<narr>
+Any document that provides information related to the kidnapping of Khadim owner, the demand of a huge sum of money and Aftab Ansari's involvement in this abduction case, is relevant.
+</narr>
+</top>
+
+<top>
+<num>15</num>
+<title>Rajya sabha sacked Jaya Bachchan</title>
+<narr>
+Jaya Bachchan has been disqualified from Rajya Sabha membership for holding an office of profit. Documents that cover the legal recourse that Jaya Bachchan has taken to protest against this decision are not related.
+</narr>
+</top>
+
+<top>
+<num>21</num>
+<title>Praveen Mahajan accused</title>
+<narr>
+Relevant documents must contain information about Praveen Mahajan's financial motive for shooting at businessman brother Pramod Mhajan.
+</narr>
+</top>
+
+<top>
+<num>22</num>
+<title>Lalu Prasad Yadav convicted</title>
+<narr>
+A relevant document should contain information about evidence regarding Railway Minister Laloo Prasad Yadav's involvement in the multi-million rupee fodder scam.
+</narr>
+</top>
+
+<top>
+<num>23</num>
+<title>Mayawati accused</title>
+<narr>
+A relevant document should focus on the investigation of Mayavati, D.S. Bagga, and R.K. Sharma by the CBI in connection with the Rs. 175 crore Taj Heritage Corridor Scandal.
+</narr>
+</top>
+
+<top>
+<num>24</num>
+<title>Abdul Karim Telgi convicted</title>
+<narr>
+Information regarding the arrest and suspension of the accused high ranking government official, Abdul Karim Telgi in connection with the multi-crore fake stamp paper scam should be included in the document. Other information beside this is irrelevant here.
+</narr>
+</top>
+
+<top>
+<num>25</num>
+<title>Protest against Narmada dam construction</title>
+<narr>
+Relevant documents must include information about protests against Narmada dam construction due to which lots of villagers nearby lost their homes in flood.
+</narr>
+</top>
+
+</topics>

@@ -1,0 +1,33 @@
+<topics>
+
+<top>
+<num>16</num>
+<title>Telecom minister A. Raja resignation</title>
+<narr>Documents retrieved should contain information about the accusations against A. Raja in the 2G Spectrum scam. Documents that talk about his criticisms for allocating 4.4MHz of spectrum  a scarce resource  at the 2001 price of Rs 1,651 crore through a first come, first served policy rather than auctions; by compromising on the market value of spectrum, the government is estimated to have lost revenues worth around Rs 50,000 crore; new licensees are signing equity deals with foreign players in which the value of spectrum has risen sevenfold, would be considered as relevant.
+</top>
+
+<top>
+<num>17</num>
+<title>Brinda Karat accused Swami Ramdev</title>
+<narr>A relevant document should contain information about complaints made by Brinda Karat alleging that Ramdev has been selling medicines containing animal parts, thus violating licensing and labeling regulations laid down in India's Drug and Cosmetics Act.</narr>
+</top>
+
+<top>
+<num>18</num>
+<title>American government against abu ghraib prison military officers</title>
+<narr>Relevant documents should contain information about the american millitary officers' involvement in the inhuman torture meted out to the prisoners at the Abu Ghraib prison.</narr>
+</top>
+
+<top>
+<num>19</num>
+<title>Carphone Warehouse terminated deal with Channel 4</title>
+<narr>A relevant document should contain information about the racist attitude of Jade Goody towards Shilpa Shetty on the Celebrity Big Brother show, and as a consequence carphone warehouse refused to continue deal with channel 4</narr>
+</top>
+
+<top>
+<num>20</num>
+<title>Shashi Tharoor resigned</title>
+<narr>Shashi Tharoor got involved in the IPL controversy, in a way that his friend Sunanda Pushkar was given free equity by IPL Kochi and he advised against prying into the consortiums ownership, Lalit Modi disclosed on Twitter. Arguments presented against him, and how these events lead up to his resignation as a Minister of Parliament would be considered as relevant documents. Any gossips related to his personal relationship with Sunanda Pushkar are not considerable.</narr>
+</top>
+
+</topics>
